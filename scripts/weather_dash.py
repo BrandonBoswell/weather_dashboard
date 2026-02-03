@@ -1,5 +1,11 @@
+"""
+============================================================
 
-## python -m pip install <library_name>
+WEATHER DASHBOARD
+
+============================================================
+"""
+
 
 from datetime import datetime
 import streamlit as st
@@ -58,7 +64,7 @@ print(fc_day1)
 
 
 
-## https://api.weatherapi.com/v1/forecast.json?key=2c328fb5de96478ab52223916263001&q=99515&days=7
+
 
 ## transform data
 
